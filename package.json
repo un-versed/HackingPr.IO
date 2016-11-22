@@ -1,0 +1,22 @@
+{
+  "name": "HackingPr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "express": "^4.14.0",
+    "socket.io": "^1.4.8",
+    "jquery.terminal": "^0.10.12",
+    "ascii-art": "^1.0.3",
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
